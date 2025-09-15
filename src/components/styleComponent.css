@@ -1,0 +1,7 @@
+.hover a {
+    transition:  0.5s ease; 
+}
+
+.hover a:hover {
+    font-weight: bold; 
+}

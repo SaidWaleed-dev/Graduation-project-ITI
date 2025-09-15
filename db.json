@@ -1,0 +1,75 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 14 Pro",
+      "category": "Smartphones",
+      "price": "2500",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-deeppurple?wid=600&hei=600&fmt=jpeg&qlt=90&.v=1663703840519",
+      "description": "The latest Apple iPhone 14 Pro with advanced features and design."
+    },
+    {
+      "id": "2",
+      "name": "MacBook Pro 16",
+      "category": "Laptops",
+      "price": 2500,
+      "image": "https://m.media-amazon.com/images/I/61KbY1K4ZAL.jpg",
+      "description": "Apple MacBook Pro 16-inch with M2 Pro chip for creators."
+    },
+    {
+      "id": "3",
+      "name": "MacBook Pro 16",
+      "category": "Laptops",
+      "price": 2500,
+      "image": "https://m.media-amazon.com/images/I/61KbY1K4ZAL.jpg",
+      "description": "test"
+    },
+    {
+      "id": "4",
+      "name": "Dell XPS 13",
+      "category": "Laptops",
+      "price": 1800,
+      "image": "https://m.media-amazon.com/images/I/81J9nwA7i1L._UF350,350_QL80_.jpg",
+      "description": "Dell XPS 13 ultraportable laptop with InfinityEdge display."
+    },
+    {
+      "id": "6",
+      "name": "Bose QuietComfort 45",
+      "category": "Headphones",
+      "price": 350,
+      "image": "https://cdn.headphonecheck.com/wp-content/uploads/Bose-QuietComfort-45-3-1920x1080.jpg",
+      "description": "Bose headphones with industry-leading noise cancellation."
+    },
+    {
+      "id": "7",
+      "name": "Canon EOS R6",
+      "category": "Cameras",
+      "price": "2000",
+      "image": "https://cdn.fstoppers.com/styles/full/s3/media/2022/12/27/nando-canon-eosr6mk2-01.jpg",
+      "description": "Full-frame mirrorless camera for photography enthusiasts."
+    },
+    {
+      "id": "8",
+      "name": "Nikon Z7 II",
+      "category": "Cameras",
+      "price": 2700,
+      "image": "https://petapixel.com/assets/uploads/2022/06/nikon-z7-ii-astrophotography-review.jpg",
+      "description": "High-resolution mirrorless camera with fast performance."
+    },
+    {
+      "id": "9",
+      "name": "Apple iPad Pro 12.9",
+      "category": "Tablets",
+      "price": 1300,
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8712923/tpina_170615_1781_0024.jpg?quality=90&strip=all&crop=0,0.073421439060198,100,99.85315712188",
+      "description": "Powerful iPad Pro with M2 chip and Liquid Retina XDR display."
+    },
+    {
+      "id": "10",
+      "name": "Samsung Galaxy Tab S8",
+      "category": "Tablets",
+      "price": 1000,
+      "image": "https://cdn.mos.cms.futurecdn.net/5wKUAWEmh9KSf63c9psSnQ.jpg"
+    }
+  ]
+}
